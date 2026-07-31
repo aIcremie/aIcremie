@@ -8,6 +8,6 @@
  
 ㅤ
 
- <img src="https://i.ibb.co/F4KkZZrN/68747470733a2f2f692e706f7374696d672e63632f726d3051424767392f54756d626c722d6c2d3230323532353033373532.gif" alt="pixel"/> $\color{#cadbdf}\textsf{im}$ $\color{#e6ede5}\textsf{meant}$  <img src="https://i.ibb.co/Xfhrp8Bw/68747470733a2f2f692e706f7374696d672e63632f38354a743264775a2f54756d626c722d6c2d3230323532343839323933.gif" alt="pixel"/>
+ <img src="https://i.ibb.co/F4KkZZrN/68747470733a2f2f692e706f7374696d672e63632f726d3051424767392f54756d626c722d6c2d3230323532353033373532.gif" alt="pixel"/> $\color{#cadbdf}\textsf{i}$ $\color{#e6ede5}\textsf{am}$ $\color{#d3e1e1}\textsf{an}$ <img src="https://i.ibb.co/Xfhrp8Bw/68747470733a2f2f692e706f7374696d672e63632f38354a743264775a2f54756d626c722d6c2d3230323532343839323933.gif" alt="pixel"/>
 
 
