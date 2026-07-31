@@ -37,7 +37,7 @@ $\color{#b2bde2}\textsf{i struggle to focus, understand and remember simple thin
 <table>
   <tr>
     <td>
-      textext
+      <img src="https://i.ibb.co/FkCyByqV/IMG-5465.gif" alt="meow"/>
     </td>
   </tr>
 </table>
