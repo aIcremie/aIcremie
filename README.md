@@ -14,13 +14,9 @@
 
 ㅤㅤㅤ<a href="https://planetlordd.atabook.org" target="_blank"><img align="center" src="https://i.ibb.co/bVpp8SG/image-2026-07-31-214608547.png" alt="ata" width="15%"/></a>ㅤ <a href="https://rentry.co/terranova" target="_blank"><img align="center" src="https://i.ibb.co/hGGZNq8/image-2026-07-31-214850206.png" alt="rentry" width="15%"/></a>ㅤ <a href="https://meqw.straw.page" target="_blank"><img align="center" src="https://i.ibb.co/7dV8NS2s/image-2026-07-31-215335517.png" alt="straw" width="14%"/></a>
 
-<table>
-  <tr>
-    <td>
-   <p style="text-align: center;"><details>
- <summary>$\color{#b2bde2}\textsf{info}$</summary>
+ㅤ
+
+<p style="text-align: center;"><details>
+ <summary>  ㅤㅤ <img src="https://i.ibb.co/5XhnXj5r/IMG-9668-1.gif" alt="meow"/> ㅤ $\color{#b2bde2}\textsf{click}$ ㅤ $\color{#e6ede5}\textsf{this}$ ㅤ $\color{#d3e1e1}\textsf{to}$ ㅤ $\color{#cadbdf}\textsf{read}$ ㅤ $\color{#b2bde2}\textsf{more}$ ㅤ $\color{#d3e1e1}\textsf{about}$ ㅤ $\color{#e6ede5}\textsf{me}$ ㅤ $\color{#b2bde2}\textsf{!!}$</summary>
   This content is hidden until you click the text above.
 </details></p>
-    </td>
-  </tr>
-</table>
