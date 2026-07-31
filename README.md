@@ -18,5 +18,8 @@
 
 <p style="text-align: center;"><details>
  <summary>  ㅤㅤ <img src="https://i.ibb.co/5XhnXj5r/IMG-9668-1.gif" alt="meow"/> ㅤ $\color{#b2bde2}\textsf{click}$ ㅤ $\color{#e6ede5}\textsf{this}$ ㅤ $\color{#d3e1e1}\textsf{to}$ ㅤ $\color{#cadbdf}\textsf{read}$ ㅤ $\color{#b2bde2}\textsf{more}$ ㅤ $\color{#d3e1e1}\textsf{about}$ ㅤ $\color{#e6ede5}\textsf{me}$ ㅤ $\color{#b2bde2}\textsf{!!}$</summary>
-  This content is hidden until you click the text above.
+  
+ ㅤ
+ 
+ $\color{#b2bde2}\textsf{HELLO!!! Im}$ $\color{#cadbdf}\textsf{Planet}$ $\color{#b2bde2}\textsf{or}$ $\color{#cadbdf}\textsf{Mars}$
 </details></p>
