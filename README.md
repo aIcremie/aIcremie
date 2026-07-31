@@ -21,5 +21,13 @@
   
  ㅤ
  
- $\color{#b2bde2}\textsf{HELLO!!! Im}$ $\color{#cadbdf}\textsf{Planet}$ $\color{#b2bde2}\textsf{or}$ $\color{#cadbdf}\textsf{Mars}$
+ $\color{#b2bde2}\textsf{HELLO!!! Im}$ $\color{#cadbdf}\textsf{Planet}$ $\color{#b2bde2}\textsf{or}$ $\color{#cadbdf}\textsf{Mars}$ $\color{#b2bde2}\textsf{and i go by}$ $\color{#cadbdf}\textsf{she/any}$ $\color{#b2bde2}\textsf{:-3}$ $\color{#b2bde2}\textsf{Im a minor and i have bipolar 2.}$
+
+$\color{#b2bde2}\textsf{i struggle to focus, understand and remember simple things. Please dont be angry,}$
+
+ $\color{#b2bde2}\textsf{take your time with me! Other than that, i love interacting with people and making}$
+
+  $\color{#b2bde2}\textsf{friends! Even though i know a lot of people, i do my best to spend time with everyone!}$
+  
+   $\color{#b2bde2}\textsf{thank you!}$ [fans-town](https://github.com/fans-town) [title-town](https://github.com/title-town) [pt-awards](https://github.com/pt-awards) [pt-players](https://github.com/pt-players) [hall-of-media](https://github.com/pt-hall-of-media) [contributers](https://github.com/pt-contributers) $\color{#b2bde2}\textsf{+}$
 </details></p>
