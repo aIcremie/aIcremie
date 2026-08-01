@@ -37,7 +37,7 @@ $\color{#b2bde2}\textsf{i struggle to focus, understand and remember simple thin
 <table>
   <tr>
     <td>
-      <img src="https://i.ibb.co/FkCyByqV/IMG-5465.gif" alt="meow"/>  ˚ִִ 𓏼 ͜͜✚ㅤ $\color{#cadbdf}\textsf{"i}$ㅤ $\color{#e6ede5}\textsf{am}$ㅤ $\color{#d3e1e1}\textsf{the}$ㅤ $\color{#b2bde2}\textsf{rot}$ㅤ $\color{#e6ede5}\textsf{and}$ㅤ $\color{#cadbdf}\textsf{the}$ㅤ $\color{#d3e1e1}\textsf{ache}$ㅤ $\color{#b2bde2}\textsf{beneath}$ㅤ $\color{#e6ede5}\textsf{your}$ㅤ $\color{#cadbdf}\textsf{skin."}$
+      <img src="https://i.ibb.co/FkCyByqV/IMG-5465.gif" alt="meow"/>  ˚ִִ 𓏼 ͜͜✚ㅤ $\color{#cadbdf}\textsf{"im}$ㅤ $\color{#e6ede5}\textsf{the}$ㅤ $\color{#d3e1e1}\textsf{rot}$ㅤ $\color{#b2bde2}\textsf{and}$ㅤ $\color{#e6ede5}\textsf{the}$ㅤ $\color{#cadbdf}\textsf{ache}$ㅤ $\color{#d3e1e1}\textsf{beneath}$ㅤ $\color{#b2bde2}\textsf{your}$ㅤ $\color{#e6ede5}\textsf{skin."}$
     </td>
   </tr>
 </table>
