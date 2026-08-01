@@ -4,7 +4,7 @@
 
  ㅤ
 
- <img align="center" src="https://i.ibb.co/xqzMn015/image-2026-07-31-185211131.png" alt="banner" width="60%"/>
+ <img align="center" src="https://i.ibb.co/xqzMn015/image-2026-07-31-185211131.png" alt="banner" width="55%"/>
  
 ㅤ
 
@@ -44,4 +44,4 @@ $\color{#b2bde2}\textsf{i struggle to focus, understand and remember simple thin
 
 ㅤ
 
-<img align="center" src="https://i.ibb.co/B2yBZ0y3/image-2026-08-01-172803321.png" alt="banner" width="60%"/> 
+<img align="center" src="https://i.ibb.co/B2yBZ0y3/image-2026-08-01-172803321.png" alt="banner" width="55%"/> 
