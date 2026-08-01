@@ -8,7 +8,7 @@
  
 ㅤ
 
-ㅤ<img src="https://i.ibb.co/F4KkZZrN/68747470733a2f2f692e706f7374696d672e63632f726d3051424767392f54756d626c722d6c2d3230323532353033373532.gif" alt="pixel"/> $\color{#cadbdf}\textsf{"i}$ㅤ $\color{#e6ede5}\textsf{am}$ㅤ $\color{#d3e1e1}\textsf{an}$ㅤ $\color{#b2bde2}\textsf{angel}$ㅤ $\color{#e6ede5}\textsf{sent}$ㅤ $\color{#cadbdf}\textsf{down}$ㅤ $\color{#d3e1e1}\textsf{from}$ㅤ $\color{#b2bde2}\textsf{above."}$ <img src="https://i.ibb.co/Xfhrp8Bw/68747470733a2f2f692e706f7374696d672e63632f38354a743264775a2f54756d626c722d6c2d3230323532343839323933.gif" alt="pixel"/>
+ㅤ<img src="https://i.ibb.co/F4KkZZrN/68747470733a2f2f692e706f7374696d672e63632f726d3051424767392f54756d626c722d6c2d3230323532353033373532.gif" alt="pixel"/> $\color{#cadbdf}\textsf{"i}$ㅤ $\color{#e6ede5}\textsf{am}$ㅤ $\color{#d3e1e1}\textsf{the}$ㅤ $\color{#b2bde2}\textsf{angel}$ㅤ $\color{#e6ede5}\textsf{sent}$ㅤ $\color{#cadbdf}\textsf{down}$ㅤ $\color{#d3e1e1}\textsf{from}$ㅤ $\color{#b2bde2}\textsf{above."}$ <img src="https://i.ibb.co/Xfhrp8Bw/68747470733a2f2f692e706f7374696d672e63632f38354a743264775a2f54756d626c722d6c2d3230323532343839323933.gif" alt="pixel"/>
 
 ㅤ
 
@@ -37,7 +37,7 @@ $\color{#b2bde2}\textsf{i struggle to focus, understand and remember simple thin
 <table>
   <tr>
     <td>
-      <img src="https://i.ibb.co/FkCyByqV/IMG-5465.gif" alt="meow"/>
+      <img src="https://i.ibb.co/FkCyByqV/IMG-5465.gif" alt="meow"/>  ˚ִִ 𓏼 ͜͜✚ㅤ $\color{#cadbdf}\textsf{"i}$ㅤ $\color{#e6ede5}\textsf{am}$ㅤ $\color{#d3e1e1}\textsf{the}$ㅤ $\color{#b2bde2}\textsf{rot}$ㅤ $\color{#e6ede5}\textsf{and}$ㅤ $\color{#cadbdf}\textsf{the}$ㅤ $\color{#d3e1e1}\textsf{ache}$ㅤ $\color{#b2bde2}\textsf{beneath}$ㅤ $\color{#e6ede5}\textsf{your}$ㅤ $\color{#cadbdf}\textsf{skin."}$
     </td>
   </tr>
 </table>
