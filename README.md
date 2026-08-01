@@ -44,3 +44,5 @@ $\color{#b2bde2}\textsf{i struggle to focus, understand and remember simple thin
 ㅤ
 
 ㅤ<img align="center" src="https://i.ibb.co/B2yBZ0y3/image-2026-08-01-172803321.png" alt="banner" width="55%"/> 
+
+ <img align="center" src="https://i.ibb.co/Q3nLkbWs/image-2026-08-01-173423344.png" alt="border" width="400%"/>
